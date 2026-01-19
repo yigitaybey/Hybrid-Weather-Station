@@ -35,6 +35,18 @@ The main technical hurdle was configuring the **0.96" SPI OLED** display due to 
 
 ---
 
+### 📸 Project Visuals
+
+**Initial Setup & Wiring (Breadboard Layout):**
+![Circuit Setup 1](../Setup1.jpeg)
+
+**OLED Display Initialization:**
+![Circuit Setup 2](../Setup2.jpeg)
+
+**Serial Monitor Data Stream:**
+![Telemetry Data](../Setup.png)
+
+
 ## Future Roadmap & Scalability (The "Hybrid" Vision)
 
 The Hybrid Electronics project is designed to be a fully autonomous environmental monitoring hub. The platform will be expanded with the following modules:
